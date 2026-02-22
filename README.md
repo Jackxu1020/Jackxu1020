@@ -1,4 +1,4 @@
-# Hi, I'm Jack Xu 👋
+# Hi, I'm Jack👋
 
 I am a third-year Computer Science student at Western University (BSc, expected May 2027) focused on software engineering and full-stack development.
 
