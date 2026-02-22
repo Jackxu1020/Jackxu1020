@@ -1,4 +1,4 @@
-# Hi, I'm Jack👋
+# Hi! I'm Jack👋
 
 I am a third-year Computer Science student at Western University (BSc, expected May 2027) focused on software engineering and full-stack development.
 
@@ -28,12 +28,12 @@ Git • Docker • Linux • AWS • Agile • Unit Testing
 
 ---
 
-## 📫 Connect ME!
+## 📫 Connect ME
 - LinkedIn: https://linkedin.com/in/jackxu1020  
 - GitHub: https://github.com/jackxu1020  
 
 ---
-## 🎯 Fun Fact
+## 🎯 Fun Fact!
 I’m also a dance champion — I’ve led teams to gold awards in competitions and choreograph hip-hop and K-pop performances outside of coding!
 
 
