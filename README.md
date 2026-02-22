@@ -1,13 +1,12 @@
 # Hi, I'm Jack Xu 👋
 
-Computer Science student at Western University (BSc, expected May 2027) focused on software engineering, full-stack development, and scalable systems.
+I am a third-year Computer Science student at Western University (BSc, expected May 2027) focused on software engineering and full-stack development.
 
 ---
 
 ## 🧠 About Me
 - 🎓 CS student (GPA 3.80/4.00)
 - 💻 Strong in full-stack development and system design
-- 🚀 Interested in backend systems, distributed apps, and fintech tech
 - 🧠 Fast learner who adapts quickly to new stacks
 - 🎯 Seeking 2026–2027 Software Developer internships
 
