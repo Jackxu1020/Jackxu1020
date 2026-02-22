@@ -33,5 +33,8 @@ Git • Docker • Linux • AWS • Agile • Unit Testing
 - GitHub: https://github.com/jackxu1020  
 
 ---
+## 🎯 Fun Fact
+I’m also a dance champion — I’ve led teams to gold awards in competitions and choreograph hip-hop and K-pop performances outside of coding!
+
 
 ⭐ *Always building, always improving.*
