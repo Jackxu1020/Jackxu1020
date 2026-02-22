@@ -29,42 +29,7 @@ Git • Docker • Linux • AWS • Agile • Unit Testing
 
 ---
 
-## 📦 Projects
-
-### 🔹 Pre-IPO Marketplace Platform
-Full-stack trading demo platform with real-time order book matching.  
-**Stack:** React + TypeScript + Phoenix + PostgreSQL  
-- Built matching engine logic  
-- Implemented real-time updates via WebSockets  
-- Designed scalable backend structure  
-
----
-
-### 🔹 SmartScheduler (C++/Qt)
-Desktop scheduling system with object-oriented design.  
-- UML diagrams and architecture planning  
-- Modular class structure (Event / Task / Course)  
-- Persistent storage service
-
----
-
-### 🔹 VirtualPet (Java Swing)
-Team Agile project game.  
-- MVC architecture  
-- Integration + unit testing  
-- Led testing and debugging phases  
-
----
-
-## 📈 Current Focus
-- System design patterns
-- Backend architecture
-- Performance optimization
-- Distributed systems basics
-
----
-
-## 📫 Contact
+## 📫 Connect ME!
 - LinkedIn: https://linkedin.com/in/jackxu1020  
 - GitHub: https://github.com/jackxu1020  
 
